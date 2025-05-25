@@ -1,2 +1,2 @@
-# coolpath-prework
+# codepath-prework
 Codepath prework project
